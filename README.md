@@ -1,4 +1,4 @@
-<h1>proyecto Bibioteca - Gestión de libros</h1>
+<h1>Proyecto Bibioteca - Gestión de libros</h1>
 
 <p>Proycto de programación avanzada</p>
 <p>Para el correcto funcionamiento del proyecto se deben incluir las siguientes librerias</p>
