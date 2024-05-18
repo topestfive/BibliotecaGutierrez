@@ -5,5 +5,5 @@
 <ul>
   <li>jakarta.servlet.jsp.jstl v2.0.0</li>
   <li>jakarta.servlet.jsp.jstl-api v2.0.0</li>
-  <li><a href="https://dev.mysql.com/downloads/connector/j/" target="_blank">mysql-connector-j-8.4.0</a></li>
+  <li><a href="https://dev.mysql.com/downloads/connector/j/">mysql-connector-j-8.4.0</a></li>
 </ul>
